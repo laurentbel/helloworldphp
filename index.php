@@ -1,5 +1,12 @@
-<?php
+<html>
+	<body>
 
-  echo "Tournevis, voici de l'or pour traiter cette affaire !";
-
-?>
+	<?php
+		echo "Tournevis, voici de l'or pour traiter cette affaire !";
+	?>
+	
+	<br/><br/>
+	<img src="web/tournevis.jpg">
+	
+	</body>
+</html>
